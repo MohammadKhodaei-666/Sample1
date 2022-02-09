@@ -278,4 +278,5 @@ catch(Exception $e){
 
 <?php
     echo "signup main part";
+    echo "<hr>";
 ?>
