@@ -277,5 +277,5 @@ catch(Exception $e){
 </form>-->
 
 <?php
-    echo "a";
+    echo "signup main part";
 ?>
